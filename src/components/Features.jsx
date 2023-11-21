@@ -12,7 +12,7 @@ const Features = () => {
   return (
     <div className=" min-h-screen flex flex-col items-center justify-center lg:px-32 px-5">
       <h1 className="text-4xl font-semibold mt-24 lg:mt-10 text-center lg:text-start">
-        Products Features
+        Product Features
       </h1>
       <p className=" mt-2 text-center lg:text-start">
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure excepturi
