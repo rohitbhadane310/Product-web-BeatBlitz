@@ -15,7 +15,7 @@ const Product = () => {
         Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure excepturi
         corporis veritatis eum molestias facere.
       </p>
-      <div className=" flex flex-row gap-4 mt-4">
+      <div className=" flex flex-col lg:flex-row gap-4 mt-4">
         <ProductCard img={img1} val="$599" />
         <ProductCard img={img2} val="$499" />
         <ProductCard img={img3} val="$499" />
