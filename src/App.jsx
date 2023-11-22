@@ -6,6 +6,7 @@ import Features from "./components/Features";
 import Product from "./components/Product";
 import Contact from "./components/Contact";
 import Faq from "./components/Faq";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -37,6 +38,8 @@ const App = () => {
           <Faq />
         </div>
       </main>
+
+      <Footer/>
     </div>
   );
 };
