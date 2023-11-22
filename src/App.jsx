@@ -5,6 +5,7 @@ import About from "./components/About";
 import Features from "./components/Features";
 import Product from "./components/Product";
 import Contact from "./components/Contact";
+import Faq from "./components/Faq";
 
 const App = () => {
   return (
@@ -29,7 +30,11 @@ const App = () => {
         </div>
 
         <div id="contact">
-          <Contact/>
+          <Contact />
+        </div>
+
+        <div id="faq">
+          <Faq />
         </div>
       </main>
     </div>
